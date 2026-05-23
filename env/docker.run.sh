@@ -1,1 +1,1 @@
-docker compose run app sh
+docker compose run app ${1}
